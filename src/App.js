@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './water.gif';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to <p className="name1" >New Positive Generation</p>   Where water won't be an issue.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.wateraid.org/ca/donate"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Donate to a Charitable cause!
         </a>
       </header>
     </div>
